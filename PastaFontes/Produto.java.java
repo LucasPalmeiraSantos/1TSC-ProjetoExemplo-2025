@@ -1,4 +1,7 @@
 
+// Programa de aplicação que administra o cadastro de produtos
+// Inclui e consulta dados de produtos
+
 public class Produto {
 
 	private double peso;
